@@ -27,7 +27,7 @@ Response can either be:
 
 
 
-#### 2. Design how you would deployed your solution to a cloud provider (AWS, GCP, Azure, Scaleway..)
+#### 2. Design how you would deploy your solution to a cloud provider (AWS, GCP, Azure, Scaleway..)
 
 
 #### 3. Make a graph on how you would manage CI/CD for your solution.
